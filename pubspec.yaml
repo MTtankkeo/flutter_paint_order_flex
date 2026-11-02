@@ -1,0 +1,18 @@
+name: paint_order_flex
+description: A Flutter package for controlling child paint order without changing layout order.
+version: 0.1.0
+publisher: ttankkeo112@gmail.com
+repository: https://github.com/MTtankkeo/flutter_paint_order_flex
+
+environment:
+  sdk: '>=3.12.0 <4.0.0'
+  flutter: '>=3.44.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
